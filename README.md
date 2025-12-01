@@ -1,8 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on developing my skills<br><br>🌱 I’m currently learning Python, Dash, MongoDB, TensorFlow, PyTorch, SQL, PowerBI, tableau.<br><br>💬 Ask me about Data.<br><br>📫 How to reach me chiragns12@gmail.com<br><br>⚡ 
 <p align="center">
-  <a href="https://github.com/ChiragNSundar">
-    <img src="" alt="Chirag N Sundar" /></a>
+ <img width="525" height="94" alt="flamingtext_com-304935371" src="https://github.com/user-attachments/assets/65c2f382-2d3d-47d7-88b6-07edbcfb7680" />
 </p>
 
 <p align="center">
