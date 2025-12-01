@@ -46,7 +46,7 @@
 
 ---
 <p align="center">
-<a href="https://github.com/ChiragNSundar/Simple-View-Counter">
+<a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/ChiragNSundar-profile-views"/></a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
